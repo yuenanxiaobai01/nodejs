@@ -1,0 +1,58 @@
+>>> Q1 <<<
+ Test specifications are iterative, generative blueprints of test design.
+They are written at the item level, and allow test developers or item
+writers to produce new versions of a test for different test-taking
+populations. The specs serve as guidelines so that new versions can be
+compared to previous versions.
+
+>>> Q2 <<<
+ A Test Execution is an issue type that aggregates a user-determined
+collection of Tests. It monitors and verifies if those Tests are 
+working as expected in a target context and environment.
+
+>>> Q3 <<<
+ Test record a phonograph record containing recordings of various
+tones of accurately controlled frequency and intensity and used 
+for testing phonographs and pickups.
+
+>>> Q4 <<<
+ Test Completion is the last stage of the software testing life
+cycle. It results in a report that is a Test manager or a Test
+lead prepares that showcases the completed data from the test execution.
+
+>>> Q5 <<<
+ The activities of testing can be divided into the following basic steps:
+	Planning and Control.
+	Analysis and Design.
+	Implementation and Execution.
+	Evaluating exit criteria and Reporting.
+	Test Closure activities.
+
+>>> Q6 <<<
+ Test analysis has the following major tasks:
+	Reviewing the test basis (such as requirements, architecture, design, interfaces).
+	Evaluating testability of the test basis and test objects.
+	Identifying and prioritizing test conditions based on analysis of test items, the specification.
+	Behavior and structure.
+	Designing and prioritizing test cases.
+	Identifying necessary test data to support the test conditions and test cases.
+	Designing the test environment set-up and identifying any required infrastructure and tools.
+
+>>> Q7 <<<
+ The fundamental test process consists of the following main activities:
+	Planning and Control.
+	Analysis and Design.
+	Implementation and execution.
+	Evaluating exit criteria and reporting.
+	Test closure activities.
+
+>>> Q8 <<<
+ Test implementation and execution has the following major tasks:
+	Developing implementing and prioritizing test cases.
+	Developing and prioritizing test procedures, creating test data and, optionally, preparing test harness and writing automated test scripts.
+	Creating test suits from the test procedures for efficient test execution.
+	Verifying that the test environment has been set up correctly.
+	Executing test procedures, either manually or by using test execution tools, according to the plane sequence.
+	Logging the outcome of test execution and recording the identities and versions of the software under test, test tools and test ware.
+	Comparing actual results with expected results.
+	Reporting discrepancies as included and analyzing them in order to establish their cause.
